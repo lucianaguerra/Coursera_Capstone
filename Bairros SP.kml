@@ -1,0 +1,853 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Bairros SP</name>
+		<description> | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Grajaú São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6682948,-23.7721939,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Jardim Ângela São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7691878,-23.7027975,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Sapopemba São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5240488,-23.5748884,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Capão Redondo São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7689719,-23.6684611,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Jardim São Luís São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7330562,-23.6513756,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Cidade Ademar São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6566541,-23.6708586,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Brasilândia São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6899783,-23.4703331,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Sacomã São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5969541,-23.6149954,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Itaim Paulista São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4036655,-23.4691053,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Jabaquara São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6505173,-23.6396479,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Cidade Tiradentes São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4001216,-23.6036926,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Campo Limpo São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7549902,-23.6347959,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Itaquera São Paulo SP</address>
+				<Point>
+					<coordinates>-46.454023,-23.5349948,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Tremembé São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6254738,-23.4598631,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Cidade Dutra São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7039001,-23.7116038,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Jaraguá São Paulo SP</address>
+				<Point>
+					<coordinates>-46.743813,-23.4574972,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Lajeado São Paulo SP</address>
+				<Point>
+					<coordinates>-46.430396,-23.5261382,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Pirituba São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7418047,-23.4791158,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>São Mateus São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4708268,-23.6018021,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Curuçá São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4167385,-23.5097018,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Pedreira São Paulo SP</address>
+				<Point>
+					<coordinates>-46.8959302,-22.7411989,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>São Rafael São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4596566,-23.6292891,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Cachoeirinha São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6553487,-23.4644478,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Jacuí São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4545037,-23.5008776,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>São Lucas São Paulo SP</address>
+				<Point>
+					<coordinates>-46.535209,-23.5865182,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Freguesia do Ó São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6977016,-23.5014967,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Cangaíba São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5270936,-23.5050496,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Jardim Helena São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4212929,-23.4794677,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Parelheiros São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7344591,-23.8029124,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Saúde São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6354972,-23.6183379,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Mariana São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6346381,-23.589702,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Medeiros São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5845224,-23.4892554,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Penha São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5488813,-23.5258058,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Iguatemi São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4171299,-23.6181007,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Andrade São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7367426,-23.6315085,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Cidade Líder São Paulo SP</address>
+				<Point>
+					<coordinates>-46.476182,-23.5578353,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Santana São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6255918,-23.4989957,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Rio Pequeno São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7539347,-23.5644876,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Ermelino Matarazzo São Paulo SP</address>
+				<Point>
+					<coordinates>-46.472079,-23.4697051,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Maria São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5890875,-23.5175587,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Perdizes São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6743166,-23.5369017,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Cursino São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6176659,-23.6309097,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Sônia São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7321349,-23.5950563,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Mandaqui São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6258906,-23.4820871,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Ipiranga São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6040369,-23.5880611,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Artur Alvim São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4689542,-23.5459648,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Matilde São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5256464,-23.5377214,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Prudente São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5797561,-23.5790136,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Guaianases São Paulo SP</address>
+				<Point>
+					<coordinates>-46.409769,-23.5766073,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Campo Grande São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6872368,-23.6780897,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Raposo Tavares São Paulo SP</address>
+				<Point>
+					<coordinates>-46.765316,-23.5853449,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Tucuruvi São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6108174,-23.473904,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Formosa São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5437922,-23.5671856,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Jaçanã São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5714143,-23.4671208,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Ponte Rasa São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4952313,-23.5092737,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Itaim Bibi São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6780743,-23.5837476,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>São Miguel Paulista São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4453133,-23.493309,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Tatuapé São Paulo SP</address>
+				<Point>
+					<coordinates>-46.575463,-23.5352452,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Aricanduva São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5110261,-23.5795193,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Jardim Paulista São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6606906,-23.5739787,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Casa Verde São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6574419,-23.5109881,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Água Rasa São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5818897,-23.5532086,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>São Domingos São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7433611,-23.5043386,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Santa Cecília São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6572575,-23.5381968,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Moema São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6721032,-23.6020214,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Carrão São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5382913,-23.5506296,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Limão São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6717412,-23.507445,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Perus São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7584771,-23.4070915,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Santo Amaro São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7066927,-23.6536633,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Bela Vista São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6456426,-23.5554048,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Liberdade São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6312586,-23.5599169,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Parque do Carmo São Paulo SP</address>
+				<Point>
+					<coordinates>-46.4765663,-23.5707667,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Anhanguera São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7932803,-23.4378791,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Lapa São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7114185,-23.5227337,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Pinheiros São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6916068,-23.5635787,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Mooca São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5995903,-23.5603265,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Campo Belo São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6720199,-23.6220296,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Consolação São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6525766,-23.5520577,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Guilherme São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6074484,-23.5144031,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Butantã São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7210095,-23.5634872,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>República São Paulo SP</address>
+				<Point>
+					<coordinates>-46.642778,-23.5451075,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Jaguaré São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7469898,-23.5449509,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Morumbi São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7201808,-23.5978856,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Belém São Paulo SP</address>
+				<Point>
+					<coordinates>-46.5911994,-23.5470833,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Alto de Pinheiros São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7096303,-23.5532742,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Vila Leopoldina São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7335886,-23.5324298,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Cambuci São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6211126,-23.5644729,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Bom Retiro São Paulo SP</address>
+				<Point>
+					<coordinates>-46.640706,-23.5256699,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Brás São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6139513,-23.5377391,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Jaguara São Paulo SP</address>
+				<Point>
+					<coordinates>-46.745443,-23.5140405,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Sé São Paulo SP</address>
+				<Point>
+					<coordinates>-46.630715,-23.5528487,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Pari São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6114203,-23.5271138,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Barra Funda São Paulo SP</address>
+				<Point>
+					<coordinates>-46.6609986,-23.5291923,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Marsilac São Paulo SP</address>
+				<Point>
+					<coordinates>-46.7064285,-23.9072763,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>
