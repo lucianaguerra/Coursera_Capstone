@@ -1,0 +1,1474 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Bairros RJ</name>
+		<description> | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Paquetá</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Paquetá Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1083583,-22.7636255,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Freguesia (Ilha)</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Freguesia (Ilha) Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1732051,-22.7896451,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bancários</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Bancários Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1809251,-22.790984,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Galeão</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Galeão Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2278231,-22.8171136,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Tauá</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Tauá Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1869532,-22.8005054,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Portuguesa</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Portuguesa Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2057793,-22.7999951,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Moneró</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Moneró Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.197717,-22.7957684,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vigário Geral</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vigário Geral Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3089519,-22.8094553,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cocotá</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cocotá Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1807701,-22.803838,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jardim América</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Jardim América Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3207177,-22.811487,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jardim Carioca</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Jardim Carioca Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1932329,-22.8057664,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pavuna</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Pavuna Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3619715,-22.8122261,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cordovil</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cordovil Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2959357,-22.8234412,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jardim Guanabara</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Jardim Guanabara Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2072504,-22.8080587,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Parada de Lucas</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Parada de Lucas Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3030143,-22.8184513,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Parque Colúmbia</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Parque Colúmbia Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3399487,-22.8138229,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Praia da Bandeira</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Praia da Bandeira Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.178954,-22.8098174,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Penha Circular</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Penha Circular Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2913733,-22.8392952,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cacuia</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cacuia Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1868891,-22.8167693,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Irajá</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Irajá Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3232005,-22.8443491,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Anchieta</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Anchieta Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3968734,-22.8208417,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Acari</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Acari Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.34446,-22.8255312,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pitangueiras</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Pitangueiras Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1807701,-22.8181592,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Costa Barros</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Costa Barros Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3727275,-22.8246493,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Brás de Pina</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Brás de Pina Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3022257,-22.8331178,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Penha</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Penha Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2774115,-22.8371837,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Zumbi</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Zumbi Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1765324,-22.8213709,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ribeira</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Ribeira Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1710835,-22.8237953,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Coelho Neto</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Coelho Neto Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3479431,-22.8316488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Guadalupe</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Guadalupe Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3780741,-22.8401095,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Parque Anchieta</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Parque Anchieta Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3968734,-22.8208417,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Barros Filho</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Barros Filho Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3632981,-22.8364807,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vista Alegre</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vista Alegre Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3166841,-22.8302817,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ricardo de Albuquerque</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Ricardo de Albuquerque Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3920928,-22.8358488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Colégio</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Colégio Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3355731,-22.8428941,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Honório Gurgel</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Honório Gurgel Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3546803,-22.8453764,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Olaria</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Olaria Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2667456,-22.8486656,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vila da Penha</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vila da Penha Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3094623,-22.8440802,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Maré</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Maré Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2422473,-22.8553516,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vila Militar</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vila Militar Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3998027,-22.8647601,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cidade Universitária</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cidade Universitária Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2258954,-22.8626877,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Rocha Miranda</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Rocha Miranda Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3467838,-22.8520764,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ramos</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Ramos Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2565606,-22.8503133,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Realengo</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Realengo Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4285172,-22.8786524,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vila Kosmos</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vila Kosmos Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3036308,-22.853809,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Marechal Hermes</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Marechal Hermes Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3698936,-22.8599749,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vicente de Carvalho</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vicente de Carvalho Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.315785,-22.8558216,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Paciência</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Paciência Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.6320026,-22.9202638,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Engenho da Rainha</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Engenho da Rainha Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2970556,-22.8652165,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Complexo do Alemão</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Complexo do Alemão Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2754314,-22.8593866,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vaz Lobo</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vaz Lobo Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.329357,-22.8574907,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Padre Miguel</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Padre Miguel Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4483194,-22.8780979,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bento Ribeiro</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Bento Ribeiro Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.363268,-22.8668265,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Turiaçú</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Turiaçú Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3437682,-22.8613816,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bonsucesso</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Bonsucesso Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2540135,-22.8627088,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Inhaúma</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Inhaúma Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2824466,-22.8714851,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Tomás Coelho</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Tomás Coelho Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3044154,-22.8682216,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Santíssimo</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Santíssimo Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.526314,-22.8759688,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Madureira</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Madureira Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3363639,-22.8725334,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Osvaldo Cruz</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Osvaldo Cruz Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.351177,-22.8749746,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Santa Cruz</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Santa Cruz Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.6843877,-22.9196515,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Magalhães Bastos</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Magalhães Bastos Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4138511,-22.8717753,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Senador Camará</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Senador Camará Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.489301,-22.8795382,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cavalcanti</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cavalcanti Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3160716,-22.8699047,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Campo dos Afonsos</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Campo dos Afonsos Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3809344,-22.8794641,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Higienópolis</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Higienópolis Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2628504,-22.8731603,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Manguinhos</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Manguinhos Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2457507,-22.8830377,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Engenheiro Leal</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Engenheiro Leal Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3258445,-22.8742633,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pilares</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Pilares Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2934758,-22.8814021,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Del Castilho</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Del Castilho Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2690045,-22.8803653,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Piedade</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Piedade Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3126665,-22.8963027,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cascadura</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cascadura Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3245974,-22.8822363,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vila Valqueire</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vila Valqueire Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3705487,-22.8811734,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Maria da Graça</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Maria da Graça Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2675087,-22.8852292,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Quintino Bocaiúva</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Quintino Bocaiúva Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3192326,-22.8875614,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jardim Sulacap</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Jardim Sulacap Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3908899,-22.8905425,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Campinho</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Campinho Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3481044,-22.8856237,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Abolição</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Abolição Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2992789,-22.888002,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Senador Vasconcelos</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Senador Vasconcelos Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.536044,-22.8941969,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cosmos</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cosmos Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.6146683,-22.9120556,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jacarezinho</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Jacarezinho Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2581953,-22.8875573,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cachambi</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cachambi Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2736259,-22.8899874,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Praça Seca</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Praça Seca Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3516802,-22.8969198,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Benfica</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Benfica Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2390946,-22.8941598,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Engenho de Dentro</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Engenho de Dentro Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2957776,-22.895332,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>São Cristóvão</name>				<ExtendedData>
+									</ExtendedData>
+								<address>São Cristóvão Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2227488,-22.8996416,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vasco da Gama</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vasco da Gama Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2267557,-22.8909961,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Inhoaíba</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Inhoaíba Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.5974696,-22.9137885,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Todos os Santos</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Todos os Santos Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2846653,-22.8928494,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jacaré</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Jacaré Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2581953,-22.8923272,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Encantado</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Encantado Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3021819,-22.8959587,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Rocha</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Rocha Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.250427,-22.8979435,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Méier</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Méier Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2802868,-22.9021836,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gamboa</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Gamboa Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1918382,-22.896091,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Santo Cristo</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Santo Cristo Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2013876,-22.899555,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Centro</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Centro Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1819148,-22.9070828,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sampaio</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sampaio Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2609188,-22.8992775,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Riachuelo</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Riachuelo Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2551084,-22.8996949,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Saúde</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Saúde Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1856126,-22.8976866,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>São Francisco Xavier</name>				<ExtendedData>
+									</ExtendedData>
+								<address>São Francisco Xavier Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2436871,-22.9043747,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Engenho Novo</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Engenho Novo Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2678442,-22.9081076,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mangueira</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Mangueira Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2340127,-22.9052507,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Tanque</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Tanque Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3608954,-22.9183448,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Taquara</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Taquara Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3739788,-22.9230494,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Água Santa</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Água Santa Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3081672,-22.905568,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Lins de Vasconcelos</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Lins de Vasconcelos Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2845096,-22.9128608,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Freguesia (Jacarepaguá)</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Freguesia (Jacarepaguá) Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3408269,-22.9389375,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cidade Nova</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cidade Nova Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2001376,-22.9095049,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Praça da Bandeira</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Praça da Bandeira Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2122385,-22.9102021,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vila Isabel</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vila Isabel Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2501796,-22.9165994,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Maracanã</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Maracanã Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2265479,-22.9123207,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Glória</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Glória Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1744611,-22.9204224,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Rio Comprido</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Rio Comprido Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2053404,-22.9252336,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Santa Teresa</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Santa Teresa Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1916361,-22.9162662,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Estácio</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Estácio Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2049783,-22.9174205,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Tijuca</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Tijuca Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2410248,-22.9325728,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Catumbi</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Catumbi Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1961757,-22.9167399,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Grajaú</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Grajaú Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2584667,-22.9237145,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pechincha</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Pechincha Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3542305,-22.9288836,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Andaraí</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Andaraí Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2487131,-22.9259539,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Catete</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Catete Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1807701,-22.9279602,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Flamengo</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Flamengo Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1757021,-22.936822,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Laranjeiras</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Laranjeiras Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.18473,-22.9332067,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Guaratiba</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Guaratiba Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.6216275,-22.9683529,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vargem Grande</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vargem Grande Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4941892,-22.9763118,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Alto da Boa Vista</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Alto da Boa Vista Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2831747,-22.9717527,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cosme Velho</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cosme Velho Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2024691,-22.9411174,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Curicica</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Curicica Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3831705,-22.9499722,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Botafogo</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Botafogo Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1807842,-22.9511931,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Urca</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Urca Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1675881,-22.954378,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cidade de Deus</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cidade de Deus Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3697197,-22.9465479,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sepetiba</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sepetiba Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.7056394,-22.9674264,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Anil</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Anil Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3372282,-22.9551921,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jacarepaguá</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Jacarepaguá Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3907025,-22.9681736,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Camorim</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Camorim Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4283216,-22.9697114,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Humaitá</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Humaitá Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1984978,-22.9567123,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gardênia Azul</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Gardênia Azul Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3512774,-22.963058,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jardim Botânico</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Jardim Botânico Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.222283,-22.9637848,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vargem Pequena</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vargem Pequena Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4630959,-22.9826643,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Copacabana</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Copacabana Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1868448,-22.9694417,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Leme</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Leme Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1662396,-22.9615018,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Lagoa</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Lagoa Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2076913,-22.9621372,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Itanhangá</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Itanhangá Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.3055003,-22.986725,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gávea</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Gávea Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2285147,-22.9760044,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Barra da Tijuca</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Barra da Tijuca Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.365895,-23.0003709,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Leblon</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Leblon Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2231424,-22.9843373,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ipanema</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Ipanema Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1985932,-22.984667,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>São Conrado</name>				<ExtendedData>
+									</ExtendedData>
+								<address>São Conrado Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2694568,-22.9985942,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Rocinha</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Rocinha Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2480261,-22.9879622,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pedra de Guaratiba</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Pedra de Guaratiba Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.6382914,-23.0019203,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Recreio dos Bandeirantes</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Recreio dos Bandeirantes Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4625904,-23.0174785,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vidigal</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vidigal Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2378333,-22.9945157,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Joá</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Joá Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.290634,-23.009409,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Barra de Guaratiba</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Barra de Guaratiba Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.5416815,-23.0124244,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Grumari</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Grumari Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.5397625,-23.0507721,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Caju</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Caju Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.2263825,-22.8799105,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Deodoro</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Deodoro Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.384949,-22.859371,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Lapa</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Lapa Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.1787502,-22.9136977,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Campo Grande</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Campo Grande Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.5659121,-22.9076515,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bangu</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Bangu Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4685442,-22.8742263,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gericinó</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Gericinó Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4800758,-22.8415136,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jabour</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Jabour Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4926728,-22.8808196,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vila Kennedy</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Vila Kennedy Rio de Janeiro RJ</address>
+				<Point>
+					<coordinates>-43.4884116,-22.8604006,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>
